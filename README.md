@@ -10,5 +10,6 @@ planteadas por @Midudev en la web [adventjs](https://adventjs.dev/es).
 3. [Ejercicio 3](./ejercicios/03-organizar-inventario.js)
 4. [Ejercicio 4](./ejercicios/04-creando-arbolitos-de-navidad.js)
 5. [Ejercicio 5](./ejercicios/05-emparejando-botas.js)
+6. [Ejercicio 6](./ejercicios/06-regalo-dentro-de-la-caja.js)
 
 ![adventjs](https://adventjs.dev/logo.webp)
