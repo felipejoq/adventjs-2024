@@ -5,11 +5,12 @@ planteadas por @Midudev en la web [adventjs](https://adventjs.dev/es).
 
 ## Ejercicios
 
-1. [Ejercicio 1](./ejercicios/01-regalos-duplicados-ordenados.js)
-2. [Ejercicio 2](./ejercicios/02-marcos-nombres.js)
-3. [Ejercicio 3](./ejercicios/03-organizar-inventario.js)
-4. [Ejercicio 4](./ejercicios/04-creando-arbolitos-de-navidad.js)
-5. [Ejercicio 5](./ejercicios/05-emparejando-botas.js)
-6. [Ejercicio 6](./ejercicios/06-regalo-dentro-de-la-caja.js)
+1. [Ejercicio 1: Primer regalo repetido](./ejercicios/01-regalos-duplicados-ordenados.js)
+2. [Ejercicio 2: Enmarcando nombres](./ejercicios/02-marcos-nombres.js)
+3. [Ejercicio 3: Organizando el inventario](./ejercicios/03-organizar-inventario.js)
+4. [Ejercicio 4: Decorando el árbol de navidad](./ejercicios/04-creando-arbolitos-de-navidad.js)
+5. [Ejercicio 5: Emparejando botas](./ejercicios/05-emparejando-botas.js)
+6. [Ejercicio 6: ¿Regalo dentro de la caja?](./ejercicios/06-regalo-dentro-de-la-caja.js)
+7. [Ejercicio 7: El ataque del Grinch](./ejercicios/07-el-ataque-del-grinch.js)
 
 ![adventjs](https://adventjs.dev/logo.webp)
