@@ -13,5 +13,6 @@ planteadas por @Midudev en la web [adventjs](https://adventjs.dev/es).
 6. [Ejercicio 6: ¿Regalo dentro de la caja?](./ejercicios/06-regalo-dentro-de-la-caja.js)
 7. [Ejercicio 7: El ataque del Grinch](./ejercicios/07-el-ataque-del-grinch.js)
 8. [Ejercicio 8: La carrera de renos](./ejercicios/08-la-carrera-de-renos.js)
+9. [Ejercicio 9: El Tren mágico](./ejercicios/09-el-tren-magico.js)
 
 ![adventjs](https://adventjs.dev/logo.webp)
