@@ -1,1 +1,1 @@
-console.log('Esperando el reto 10...');
+console.log('Esperando el reto 12...');
