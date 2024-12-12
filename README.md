@@ -16,5 +16,6 @@ planteadas por @Midudev en la web [adventjs](https://adventjs.dev/es).
 9. [Ejercicio 9: El Tren mágico](./ejercicios/09-el-tren-magico.js)
 10. [Ejercicio 10: Ensamblador élfico](./ejercicios/10-ensamblador-elfico.js)
 11. [Ejercicio 11: Nombres de archivos codificados](./ejercicios/11-nombres-de-archivos-codificados.js)
+12. [Ejercicio 12: ¿Cuánto cuesta el árbol?](./ejercicios/12-cuanto-cuesta-el-arbol.js)
 
 ![adventjs](https://adventjs.dev/logo.webp)
