@@ -17,5 +17,6 @@ planteadas por @Midudev en la web [adventjs](https://adventjs.dev/es).
 10. [Ejercicio 10: Ensamblador élfico](./ejercicios/10-ensamblador-elfico.js)
 11. [Ejercicio 11: Nombres de archivos codificados](./ejercicios/11-nombres-de-archivos-codificados.js)
 12. [Ejercicio 12: ¿Cuánto cuesta el árbol?](./ejercicios/12-cuanto-cuesta-el-arbol.js)
+13. [Ejercicio 13: ¿El robot está de vuelta?](./ejercicios/13-el-robo-esta-de-vuelta.js)
 
 ![adventjs](https://adventjs.dev/logo.webp)
