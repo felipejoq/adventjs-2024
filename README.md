@@ -22,5 +22,6 @@ planteadas por @Midudev en la web [adventjs](https://adventjs.dev/es).
 15. [Dibujando tablas](./ejercicios/15-dibujando-tablas.js)
 16. [Limpiando la nieve del camino](./ejercicios/16-limpiando-la-nieve-del-camino.js)
 17. [Busca la bomba del Grinch](./ejercicios/17-busca-la-bomba-del-grinch.js)
+18. [La agenda mágica de Santa](./ejercicios/18-la-agenda-magica-de-santa.js)
 
 ![adventjs](https://adventjs.dev/logo.webp)
